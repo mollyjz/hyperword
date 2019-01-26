@@ -1,6 +1,6 @@
 # HyperWord
 
-A word game where you must fill in the blanks and match the word score
+A word game where you must fill in the blanks and match the word score.
 
 Live demo: https://drive.google.com/file/d/1LZXfDNMorA8iLBSMKVABJsNbqaY0I0k9/view
 
